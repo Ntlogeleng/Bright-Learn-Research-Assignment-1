@@ -9,4 +9,4 @@ An important part of the research focused on the responsible use of data and AI,
 Finally, I researched the different roles within the data field, including Data Analysts, Data Scientists, Data Engineers and AI Engineers, and explored Business Intelligence and tools such as Power BI and Tableau.
 This research helped me understand the data lifecycle, how data is collected and managed, how it is transformed into insights, and how organisations can use data and AI to support better decision-making.
 
-# Topics: Databases. Data Warehousing. Data Lakes. ETL. Data Modelling. Data Mining. Python. SQL. APIs. JSON. Jupyter Notebook. Power BI. Business Intelligence. AI. Machine Learning. Data Privacy. Data Ethics. Data Governance.
+Topics: Databases. Data Warehousing. Data Lakes. ETL. Data Modelling. Data Mining. Python. SQL. APIs. JSON. Jupyter Notebook. Power BI. Business Intelligence. AI. Machine Learning. Data Privacy. Data Ethics. Data Governance.
